@@ -1,0 +1,10 @@
+
+{
+  "supplier_name": "Malabar Office Supplies",
+  "invoice_number": "MOS-2026-001",
+  "invoice_date": "2026-10-15",
+  "currency": "INR",
+  "subtotal": 10000.00,
+  "tax": 1800.00,
+  "total": 11800.00
+}
